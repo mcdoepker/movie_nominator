@@ -1,0 +1,5 @@
+1: download IMDbPY and the IMDb files
+2: set up a cron job to keep IMDbPY up to date from its git repo
+3: set up a cron job to keep the files from IMDb up to date
+4: deicde on client server with a phone app OR a website
+5: can I use python scripts and functions in C or C++?

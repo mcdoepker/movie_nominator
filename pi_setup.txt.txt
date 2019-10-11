@@ -1,0 +1,5 @@
+20190920
+I broke the initial setup that came with the card, so I downloaded a new image to my 64GB micro SD. After it booted,
+I ran 'sudo apt-get update' and 'sudo apt-get upgrade'. Then after seemingly running around like a chicken with her 
+head cut off, I found this website [https://pimylifeup.com/raspberry-pi-phpmyadmin/] and followed it and both steps 
+to set up a web server and install mysql. The root password for MYSQL is the same as the password I set for the pi.
